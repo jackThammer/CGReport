@@ -1,4 +1,5 @@
 # Computer Graphics Report
+> Project for the CG Program at SJIT
 
 This report explores in depth a very interesting and untouched topic-COMPUTER GRAPHICS.
 
